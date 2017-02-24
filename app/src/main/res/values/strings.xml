@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="restua">Restaurant</string>
+    <string name="cafe">Cafe</string>
+    <string name="museum">Museum</string>
+    <string name="park">Park</string>
+</resources>

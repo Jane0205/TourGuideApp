@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="restautant">#DAA520</color>
+    <color name="museum">#DA7346	</color>
+    <color name="park">#191970	</color>
+    <color name="cafe">#800000</color>
+</resources>
